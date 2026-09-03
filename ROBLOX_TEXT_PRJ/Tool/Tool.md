@@ -1,0 +1,2 @@
+1.将所有Tool的工具存放在ToolManager这个Modelscript中
+2.工具模型均存放在Tool下的ToolEquip中，在ToolManager中初始化这个工具的属性
