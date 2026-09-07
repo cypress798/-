@@ -1,0 +1,4 @@
+这是一个实现收集球的逻辑文档方案
+1.使用Ball_Pit_SKILL.md的架构
+2.ReplicatedStorage下的BallPool就是生成的球池
+3.BallColorCollect就是吸收对应颜色的球的属性

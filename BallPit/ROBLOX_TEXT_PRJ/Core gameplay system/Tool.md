@@ -1,0 +1,6 @@
+1.工具模型均存放在ReplicatedStorage下的Tool，在ToolModuleScript中初始化这个工具的属性
+2.在workspace中Tool存放了四个初始工具分别为：Bluebucket，Greenbucket，Redbucket，Yellowbucket
+3.玩家只能装备一个初始工具，按1装备初始Tool
+4.在在workspace中Tool的四个初始工具，按E切换对应的到装备栏中
+5.对应颜色的工具收集对应颜色的球BallColorCollect属性就是对应的球的收集的颜色
+6.工具的分类别，1为初始工具，2为特殊工具，3之后再扩展
