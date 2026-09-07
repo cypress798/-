@@ -2,3 +2,6 @@
 1.使用Ball_Pit_SKILL.md的架构
 2.ReplicatedStorage下的BallPool就是生成的球池
 3.BallColorCollect就是吸收对应颜色的球的属性
+4.收集初始状态修改：自动吸附目标球->点击鼠标左键吸附一颗目标球
+5.在Tool中显示cd冷却，初始冷却为1s，点击鼠标左键吸附一颗目标球到下次点击鼠标左键吸附一颗目标球之间的冷却
+6.UI显示形式为：生成一个Frame半透明遮罩覆盖Tool工具1，其属性Size的Y逐渐变为0
